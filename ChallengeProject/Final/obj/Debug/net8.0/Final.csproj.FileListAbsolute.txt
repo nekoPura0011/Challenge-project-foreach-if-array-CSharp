@@ -1,0 +1,15 @@
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/bin/Debug/net8.0/Final
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll

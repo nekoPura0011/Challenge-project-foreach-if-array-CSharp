@@ -1,0 +1,15 @@
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/bin/Debug/net8.0/Starter
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/nekopura_0011/Documents/GitHub/Challenge-project-foreach-if-array-CSharp/ChallengeProject/Starter/obj/Debug/net8.0/ref/Starter.dll
